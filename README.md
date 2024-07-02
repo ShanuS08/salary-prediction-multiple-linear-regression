@@ -1,4 +1,4 @@
-# salary-prediction-multiple-linear-regression
+# Salary Prediction Using Multiple Linear Regression
 This project predicts salaries based on experience, test scores, and interview scores using a multiple linear regression model. The dataset includes years of experience, test scores (out of 10), interview scores (out of 10), and salaries. The model is implemented in a Jupyter Notebook and demonstrates the steps of data preparation, model training, and prediction.
 
 # Features
