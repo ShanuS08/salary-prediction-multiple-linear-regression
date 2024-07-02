@@ -6,8 +6,8 @@ This project predicts salaries based on experience, test scores, and interview s
 - Multiple linear regression model implementation
 - Prediction results
 - Predictions for:
-  12 years experience, 10 test score, 10 interview score
-  2 years experience, 9 test score, 6 interview score
+  1. 12 years experience, 10 test score, 10 interview score
+  2. 2 years experience, 9 test score, 6 interview score
 - Detailed code comments
 
 # Requirements
